@@ -1,4 +1,4 @@
-# React-Temp (Smart Temperature Counter)
+# React Temp (Smart Temperature Counter)
 A dynamic React counter that visually responds to value changes by switching colors:
 
 🔴 Red when above a threshold (hot)
